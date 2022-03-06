@@ -1,6 +1,6 @@
 # Problem Description
 
-Imagine that we would like to deliver a new feature for enhancing our sellers' journey when onboarding new products on our Conrad Marketplace.
+Imagine that we would like to deliver a new feature for enhancing our sellers' journey when onboarding new products on our Marketplace.
 
 For that, we would like to provide a service that automatically detects the brand of added products from the related unstructured data it has e.g. title
 
